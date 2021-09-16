@@ -137,6 +137,7 @@ export function SvgUri(props: UriProps) {
           .then((response) => {
             onLoad(true)
             setXml(response)
+            return
           })
           .catch(onError)
       : setXml(null);
