@@ -63,7 +63,7 @@
     "css-tree": "^1.0.0-alpha.39"
   },
   "devDependencies": {
-    "@react-native-community/bob": "^0.9.7",
+    "@react-native-community/bob": "^0.17.1",
     "@react-native-community/eslint-config": "0.0.7",
     "@react-native-community/eslint-plugin": "^1.0.0",
     "@semantic-release/changelog": "^5.0.0",
